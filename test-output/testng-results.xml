@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24" started-at="2016-03-27T14:29:11Z" finished-at="2016-03-27T14:29:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24" started-at="2016-03-27T14:29:11Z" finished-at="2016-03-27T14:29:11Z">
+      <class name="javalearning.Jenkinsjob">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:javalearning.Jenkinsjob@10000ccd]" name="beforeMethod" is-config="true" duration-ms="9" started-at="2016-03-28T00:29:11Z" finished-at="2016-03-28T00:29:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:javalearning.Jenkinsjob@10000ccd]" name="f" duration-ms="1" started-at="2016-03-28T00:29:11Z" finished-at="2016-03-28T00:29:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:javalearning.Jenkinsjob@10000ccd]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-03-28T00:29:11Z" finished-at="2016-03-28T00:29:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- javalearning.Jenkinsjob -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
